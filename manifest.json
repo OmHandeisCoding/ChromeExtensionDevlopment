@@ -1,0 +1,13 @@
+﻿{
+  "name": "String Functions",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "This is Chapter 1",
+  "action": {
+    "default_title": "I am Chapter 1",
+    "default_popup": "2.html",
+    "default_icon": {
+      "32": "Chapter_1_32.png"
+    }
+  }
+}
